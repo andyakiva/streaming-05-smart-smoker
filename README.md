@@ -24,3 +24,4 @@ The python file creates and sends messages to three message queues.
 2. Food A temp with time stamp
 3. Food B temp with time stamp
 
+![Screenshot of messages sending](.venv/screenshot.png)
